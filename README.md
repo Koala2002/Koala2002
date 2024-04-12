@@ -11,11 +11,30 @@
       <p>
         National Formosa University
         <br/>
+        Noob
+        <br/>
         Competitive Programmer
       </p>
     </td>
   </tr>
 </table>
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Koala2002&force_username=true)](https://codeforces.com/profile/redheadphone)
-![Leetcode Stats](https://leetcard.jacoblin.cool/Koala2002?ext=heatmap)
+<table>
+  <tr  align="center">
+    <td>
+      <img 
+        width="10000"
+        align="center"
+        src="https://codeforces-readme-stats.vercel.app/api/card?username=Koala2002&force_username=true&bg_color=ffffff00&text_color=757575&border_color=ffffff00"
+      />
+    </td>
+    <td>
+      <img 
+        width="10000"
+        align="center"
+        src="https://leetcard.jacoblin.cool/Koala2002?ext=contest"
+      />
+    </td>
+  </tr>
+</table>
+
