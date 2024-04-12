@@ -16,3 +16,6 @@
     </td>
   </tr>
 </table>
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Koala2002&force_username=true)](https://codeforces.com/profile/redheadphone)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Koala2002?ext=heatmap)
