@@ -10,7 +10,6 @@
     </td>
     <td width="50%"  align="center">
       <p>
-        <br/>
         Competitive Programmer
         <br/>
         &
