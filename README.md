@@ -20,7 +20,7 @@
   </tr>
 </table>
 
-# Commpetitive Programming
+# Competitive Programming
 <table>
   <tr  align="center">
     <td>
