@@ -1,4 +1,4 @@
-# About Me
+# Skill
 <table>
   <tr align="center">
     <td width="60%">
@@ -10,11 +10,12 @@
     </td>
     <td width="40%"  align="center">
       <p>
-        National Formosa University
-        <br/>
-        Noob
         <br/>
         Competitive Programmer
+        <br/>
+        &
+        <br/>
+        Algorithm Developer
       </p>
     </td>
   </tr>
