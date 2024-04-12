@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koala2002&theme=github_dark&hide_border=true&layout=donut" />
