@@ -15,6 +15,10 @@
         &
         <br/>
         Algorithm Developer
+        <br/>
+        &
+        <br/>
+        Fullstack Developer
       </p>
     </td>
   </tr>
