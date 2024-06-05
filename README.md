@@ -18,7 +18,7 @@
         <br/>
         &
         <br/>
-        Fullstack Developer
+        Full-Stack Developer
       </p>
     </td>
   </tr>
